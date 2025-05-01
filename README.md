@@ -1,8 +1,10 @@
-![KasirWarung](https://github.com/AIbnuHIbban/KasirWarung/blob/master/src/assets/images/text.png?raw=true)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AIbnuHIbban/KasirWarung/master/src/assets/images/text.png" alt="KasirWarung" width="300"/>
+</p>
 
 # KasirWarung - POS Application for Small Food Stalls
 
-![KasirWarung](https://github.com/AIbnuHIbban/KasirWarung/blob/master/src/assets/images/screenshot.png?raw=true)
+<img src="https://raw.githubusercontent.com/AIbnuHIbban/KasirWarung/master/src/assets/images/screenshot.png" alt="KasirWarung" width="1200"/>
 
 KasirWarung is a simple and modern point-of-sale (POS) application for small food stalls or street food vendors. This application is built using React, TypeScript, and Tailwind CSS with a focus on ease of use and performance.
 
